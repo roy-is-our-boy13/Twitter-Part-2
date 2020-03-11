@@ -86,7 +86,6 @@
                                             </constraints>
                                             <state key="normal" image="favor-icon"/>
                                             <connections>
-                                                <action selector="favButton:" destination="nKQ-MI-MdR" eventType="touchUpInside" id="cmi-3e-yJh"/>
                                                 <action selector="favoriteTweet:" destination="nKQ-MI-MdR" eventType="touchUpInside" id="2qu-fZ-QBk"/>
                                             </connections>
                                         </button>
