@@ -1,18 +1,16 @@
-# Project 3 - *Name of App Here*
+# Twitter - Part II
 
-**Name of your app** is a basic twitter app to read your tweets.
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [ /Users/royperlman/Desktop/Screen Shot 2020-03-12 at 12.09.27 PM.png] User can compose a tweet. (4pts)
+- [/Users/royperlman/Desktop/Screen Shot 2020-03-12 at 12.09.27 PM.png ] User can favorite a tweet. (4pts)
+- [ /Users/royperlman/Desktop/Screen Shot 2020-03-12 at 12.09.27 PM.png] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -23,5 +21,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/FRZjFll.gif' />
 
