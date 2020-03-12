@@ -8,9 +8,9 @@ Time spent: 10 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ /Users/royperlman/Desktop/Screen Shot 2020-03-12 at 12.09.27 PM.png] User can compose a tweet. (4pts)
-- [/Users/royperlman/Desktop/Screen Shot 2020-03-12 at 12.09.27 PM.png ] User can favorite a tweet. (4pts)
-- [ /Users/royperlman/Desktop/Screen Shot 2020-03-12 at 12.09.27 PM.png] User can retweet a tweet. (2pts)
+- [ Check] User can compose a tweet. (4pts)
+- [Check ] User can favorite a tweet. (4pts)
+- [ Check] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 

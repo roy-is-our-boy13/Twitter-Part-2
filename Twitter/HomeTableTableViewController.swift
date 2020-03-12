@@ -102,8 +102,8 @@ class HomeTableTableViewController: UITableViewController
         cell.userNameLabel.text = user["name"] as? String
         cell.tweetConent.text = tweetArray[indexPath.row]["text"] as? String
         
-        let imageUrl = URL(fileURLWithPath: (user["profile_image_url_https"] as? String)!)
-        let data = try? Data(contentsOf: imageUrl)
+        let imageUrl = URL(string: (user["profile_image_url_https"] as? String)!)
+        let data = try? Data(contentsOf: imageUrl!)
         
         if let imageData = data
         {
